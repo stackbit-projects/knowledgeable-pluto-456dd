@@ -7,7 +7,7 @@ sections:
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
     actions:
-      - label: Contact Me
+      - label: Contactame
         url: /contact
         style: primary
     image: /images/foto_perfil_2021.jfif
