@@ -5,10 +5,7 @@ sections:
     title: 'Hola, Soy Christian Espino Magaña'
     subtitle: >-
       Desarrollador Web en frontend y backend con más de 3 años de experiencia
-      profesional. Colaborando en proyectos agiles para el sector privado, de
-      gobierno y bancario. Siempre he credío que el mejor lenguaje de
-      programación a utilizar en un proyecto es el que le otorgue la mejor
-      alternativa al cliente.
+      profesional.
     actions:
       - label: Contactame
         url: /contact
