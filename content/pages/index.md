@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: 'Hola, Soy Christian Espino Magaña'
     subtitle: >-
-      Desarrollador Web con más de 3 años de experiencia profesional.
-      Colaborando en proyectos agiles para el sector privado, de gobierno y
-      bancario.
+      Desarrollador Web en frontend y backend con más de 3 años de experiencia
+      profesional. Colaborando en proyectos agiles para el sector privado, de
+      gobierno y bancario.
     actions:
       - label: Contactame
         url: /contact
