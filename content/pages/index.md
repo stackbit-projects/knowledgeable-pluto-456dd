@@ -5,7 +5,7 @@ sections:
     title: 'Hola, Soy Christian Espino Magaña'
     subtitle: >-
       Desarrollador Web con más de 3 años de experiencia profesional.
-      Colaborando en proyectos agiles
+      Colaborando en proyectos agiles para el sector privado, de gobierno y
     actions:
       - label: Contactame
         url: /contact
