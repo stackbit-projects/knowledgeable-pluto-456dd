@@ -45,8 +45,6 @@ sections:
         image_width: thirty-three
         image_has_padding: true
       - title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
