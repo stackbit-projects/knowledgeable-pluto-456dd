@@ -37,7 +37,7 @@ sections:
         image_align: right
         image_position: top
         image_width: fifty
-        image_has_padding: true
+        image_has_padding: false
       - image: /images/Grupo_Salinas-logo.png
         image_alt: Grupo Salinas
         image_align: right
