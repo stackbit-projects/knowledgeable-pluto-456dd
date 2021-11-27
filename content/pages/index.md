@@ -44,8 +44,7 @@ sections:
         image_position: right
         image_width: thirty-three
         image_has_padding: true
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           *
         content_align: left
