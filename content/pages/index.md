@@ -32,9 +32,6 @@ sections:
     subtitle: Empresas donde he colaborado
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-        image_align: center
       - image: /images/Latin-ID-CURVAS-2016-SOLUCIONES-01_recorte.png
         image_alt: Latin Id
         image_align: center
