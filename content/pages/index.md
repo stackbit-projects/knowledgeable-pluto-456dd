@@ -36,7 +36,7 @@ sections:
         image_alt: Logo 1
         image_align: center
       - image: /images/Latin-ID-CURVAS-2016-SOLUCIONES-01_recorte.png
-        image_alt: Logo 2
+        image_alt: Latin Id
         image_align: center
       - image: /images/Grupo_Salinas-logo.png
         image_alt: Logo 3
