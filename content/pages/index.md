@@ -28,7 +28,7 @@ sections:
       programación a utilizar en un proyecto es el que le otorgue la mejor
       alternativa al cliente.*
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Con la confianza de empresas pequeñas y grandes
     subtitle: Empresas donde he colaborado
     align: center
     grid_items:
