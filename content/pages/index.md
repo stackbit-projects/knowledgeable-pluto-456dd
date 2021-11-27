@@ -45,7 +45,7 @@ sections:
         image_has_padding: true
     grid_cols: four
     grid_gap_horiz: small
-    grid_gap_vert: small
+    grid_gap_vert: large
   - type: features_section
     title: My services
     subtitle: What I do
