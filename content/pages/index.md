@@ -24,9 +24,11 @@ sections:
     background_image_opacity: 8
     content: >
       *Colaborando en proyectos agiles para el sector privado, de gobierno y
-      bancario. Siempre he creído que el mejor lenguaje de programación a
-      utilizar en un proyecto es el que le otorgue la mejor alternativa al
-      cliente.*
+      bancario. *
+
+
+      *Siempre he creído que el mejor lenguaje de programación a utilizar en un
+      proyecto es el que le otorgue la mejor alternativa al cliente.*
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
