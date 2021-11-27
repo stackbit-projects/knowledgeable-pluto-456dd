@@ -36,7 +36,7 @@ sections:
         image_alt: Latin Id
         image_align: center
         image_position: top
-        image_width: thirty-three
+        image_width: fifty
       - image: /images/Grupo_Salinas-logo.png
         image_alt: Grupo Salinas
         image_align: right
