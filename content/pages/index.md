@@ -32,18 +32,18 @@ sections:
     subtitle: Empresas donde he colaborado
     align: center
     grid_items:
-      - image: /images/Latin-ID-CURVAS-2016-SOLUCIONES-01_recorte.png
-        image_alt: Latin Id
-        image_align: right
-        image_position: top
-        image_width: fifty
-        image_has_padding: false
       - image: /images/Grupo_Salinas-logo.png
         image_alt: Grupo Salinas
         image_align: center
         image_position: right
         image_width: thirty-three
         image_has_padding: true
+      - image: /images/Latin-ID-CURVAS-2016-SOLUCIONES-01_recorte.png
+        image_alt: Latin Id
+        image_align: right
+        image_position: top
+        image_width: fifty
+        image_has_padding: false
       - title_align: left
         content_align: left
         actions: []
