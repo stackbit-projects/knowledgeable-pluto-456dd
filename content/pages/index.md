@@ -39,6 +39,7 @@ sections:
         image_alt: Latin Id
         image_align: center
         image_position: left
+        image_width: fourty
       - image: /images/Grupo_Salinas-logo.png
         image_alt: Logo 3
         image_align: center
