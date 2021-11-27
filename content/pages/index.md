@@ -46,7 +46,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: medium
-    enable_cards: true
+    enable_cards: false
   - type: features_section
     title: My services
     subtitle: What I do
