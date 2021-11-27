@@ -7,7 +7,7 @@ sections:
       Desarrollador Web en frontend y backend con más de 3 años de experiencia
       profesional. Colaborando en proyectos agiles para el sector privado, de
       gobierno y bancario. Siempre he credío que el mejor lenguaje de
-      programación a utilizar es el que le otorgue la mejor
+      programación a utilizar es el que le otorgue la mejor alternativa
     actions:
       - label: Contactame
         url: /contact
