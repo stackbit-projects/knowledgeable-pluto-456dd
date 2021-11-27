@@ -29,7 +29,7 @@ sections:
       alternativa al cliente.*
   - type: grid_section
     title: Trusted by Companies Big and Small
-    subtitle: Who I work with
+    subtitle: Empresas donde he colaborado
     align: center
     grid_items:
       - image: images/logo-1.svg
