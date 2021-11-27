@@ -38,12 +38,6 @@ sections:
         image_position: right
         image_width: thirty-three
         image_has_padding: true
-      - image: /images/Latin-ID-CURVAS-2016-SOLUCIONES-01_recorte.png
-        image_alt: Latin Id
-        image_align: right
-        image_position: top
-        image_width: fifty
-        image_has_padding: false
       - title_align: left
         content_align: left
         actions: []
@@ -53,6 +47,12 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
+        image_has_padding: false
+      - image: /images/Latin-ID-CURVAS-2016-SOLUCIONES-01_recorte.png
+        image_alt: Latin Id
+        image_align: right
+        image_position: top
+        image_width: fifty
         image_has_padding: false
     grid_cols: four
     grid_gap_horiz: small
