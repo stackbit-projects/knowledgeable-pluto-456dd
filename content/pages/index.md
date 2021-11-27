@@ -43,7 +43,7 @@ sections:
         image_position: right
         image_width: thirty-three
         image_has_padding: true
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
