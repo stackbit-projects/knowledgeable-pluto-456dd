@@ -44,6 +44,7 @@ sections:
         image_position: right
         image_width: thirty-three
         image_has_padding: true
+        title: Grupo Salinas
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: medium
