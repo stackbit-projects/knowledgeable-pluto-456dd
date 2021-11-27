@@ -42,7 +42,7 @@ sections:
         image_align: right
         image_position: right
         image_width: fifty
-    grid_cols: two
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
