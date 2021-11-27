@@ -41,6 +41,7 @@ sections:
         image_alt: Grupo Salinas
         image_align: center
         image_position: right
+        image_width: fifty
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
