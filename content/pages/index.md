@@ -38,7 +38,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - image: /images/Grupo_Salinas-logo.png
-        image_alt: Logo 3
+        image_alt: Grupo Salinas
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
