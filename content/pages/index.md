@@ -6,7 +6,10 @@ sections:
     subtitle: >-
       Desarrollador Web en frontend y backend con más de 3 años de experiencia
       profesional. Colaborando en proyectos agiles para el sector privado, de
-      gobierno y bancario.
+      gobierno y bancario. Siempre he credío que El mejor lenguaje de
+      programación
+
+      a utilizar es el que le otorgue la mejor alternativa al cliente."
     actions:
       - label: Contactame
         url: /contact
